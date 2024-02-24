@@ -1,11 +1,13 @@
-Olá! Seja bem vindo! Esse é o meu GITHUB, aqui você pode encontar meu portfólio e interação no mundo GIT. Esse perfil sofre atualizações constantes conforme meu avanço, logo fique a vontade para acompanhar e ver as atualizações! 😉
+### Olá!
+Esse é o meu GITHUB, aqui você pode encontar meu portfólio e interação no mundo GIT. Esse perfil sofre atualizações constantes conforme meu avanço, logo fique a vontade para acompanhar e ver as atualizações!        
 
-Atuo como PO e através do design thinking e demais boas práticas de desenvolvimento de produto, busco entregar produtos sólidos e que agreguem real valor para você.
-Acredito que estudar nunca é de mais e deve ser nosso maior combustível junto dos desafios, acredito que cada vez mais estou evoluindo e aproximando de minhas metas.
+Atuo como PO e através do design thinking e demais boas práticas de desenvolvimento de produto, busco entregar produtos sólidos e que gerem valor.
 
-Caso queira falar comigo, fique à-vontade! 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianberrs&show_icons=true&theme=radical"/>
+</div>
 
-<!---
-AdrianBerrs/AdrianBerrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🟢 Se quiser contatos!
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/333062425563758595)
+[![{Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-santos-bernardo-po/)
