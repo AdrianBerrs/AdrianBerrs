@@ -16,10 +16,9 @@ Atuo como PO e através do design thinking e demais boas práticas de desenvolvi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianberrs&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ---
 ### 🟢 Top Repositories
-
-
 <a href="https://github.com/AdrianBerrs/AppGymJB.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianBerrs&repo=AppGymJB&theme=chartreuse-dark" />
 </a><br>
 
+---
 [![](https://visitcount.itsvg.in/api?id=AdrianBerrs&label=Views&color=8&icon=2&pretty=false)](https://visitcount.itsvg.in)
