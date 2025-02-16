@@ -1,7 +1,6 @@
 ### Olá! 🤘🏼<br><br>
 
-Esse é o meu GITHUB, aqui você pode encontar meu portfólio e interação no mundo GIT. Esse perfil sofre atualizações constantes conforme meu avanço, logo fique a vontade para acompanhar e ver as atualizações!<br><br>
-Atuo como PO e através do design thinking e demais boas práticas de desenvolvimento de produto, busco entregar produtos sólidos e que agreguem real valor para você. Acredito que estudar nunca é de mais e deve ser nosso maior combustível junto dos desafios, acredito que cada vez mais estou evoluindo e aproximando de minhas metas.<br><br>
+Esse é o meu GITHUB, aqui deveria ter meu portfólio e interação no mundo GIT, porém esse perfil sofre atualizações constantes conforme meu avanço, logo fique a vontade para acompanhar e ver as atualizações!<br><br>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)<br><br>
