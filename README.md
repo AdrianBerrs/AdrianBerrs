@@ -1,6 +1,6 @@
 ### Olá! 🤘🏼<br><br>
 
-Esse é o meu GITHUB, aqui deveria ter meu portfólio e interação no mundo GIT, porém esse perfil sofre atualizações constantes conforme meu avanço, logo fique a vontade para acompanhar e ver as atualizações!<br><br>
+### Um PO metido a DEV!<br><br>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)<br><br>
