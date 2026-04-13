@@ -1,28 +1,28 @@
-# 👋 Fala aí, eu sou o Adrian
+# 👋 Sup, i'm Adrian
 
-💻 **Desenvolvedor + Product Owner**
+💻 **Software Developer + Product Owner**
 
-☕ Código bem feito, produto bem pensado
+☕ Well done code, well planned product
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)<br><br>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About
 
-Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas** e atuo como **Product Owner**, mas com um pezinho (ou dois 😅) forte no desenvolvimento.
+I am **Technologist in Systems Analysis and Development** and I act as **Product Owner**, but with a strong foot (or two 😅) in development.
 
-Curto construir soluções completas — da ideia ao deploy — sempre equilibrando:
+I like to build complete solutions - from idea to deploy - always balancing:
 
-* 🧠 Regra de negócio
-* ⚙️ Arquitetura
-* 💻 Código
+* 🧠 Business rule
+* ⚙️ Architecture
+* 💻 Code
 
-💡 Pra mim, produto bom não vive sem código bom.
+💡 For me, a good product doesn't live without a good code.
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack
 
 ### 💻 Backend
 
@@ -35,7 +35,7 @@ Curto construir soluções completas — da ideia ao deploy — sempre equilibra
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### ⚙️ Ferramentas
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
